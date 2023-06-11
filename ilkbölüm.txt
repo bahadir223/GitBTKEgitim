@@ -1,6 +1,2 @@
-java kitabı
-bu kitap güzel bir kitap olacak
-ilk bölüm:
-variables
-bugün branch'leri öğreniyoruz.
-artık son commit'i de atıyoruz
+arka kapak cok guzeldir.
+yeni değişikliler yaptım.
